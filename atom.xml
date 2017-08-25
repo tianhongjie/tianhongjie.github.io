@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Charlie的博客</title>
+  <subtitle>如是说</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ilaole.com/"/>
+  <updated>2017-02-09T05:30:41.000Z</updated>
+  <id>https://ilaole.com/</id>
+  
+  <author>
+    <name>Charlie Tian</name>
+    <email>i@ilaole.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Pencil 介绍</title>
+    <link href="https://ilaole.com/2017/02/09/Pencil/"/>
+    <id>https://ilaole.com/2017/02/09/Pencil/</id>
+    <published>2017-02-09T05:01:31.000Z</published>
+    <updated>2017-02-09T05:30:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h3><blockquote>
+<p>SITE: <a href="http://pencil.evolus.vn/Next.html" target="_blank" rel="external">http://pencil.evolus.vn/Next.html</a></p>
+<p>VERSION: 3.0.0 - RC1</p>
+</blockquote>
+<h3 id="Add-PLugins"><a href="#Add-PLugins" class="headerlink" title="Add PLugins"></a>Add PLugins</h3><blockquote>
+<ol>
+<li><p>Install From File</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">Example:</div><div class="line">$ git clone https://github.com/nathanielw/Material-Icons-for-Pencil.git --recursive</div><div class="line">$ cd Material-Icons-for-Pencil</div><div class="line">You should install(ubuntu)</div><div class="line">$ sudo apt-get install python-pip3</div><div class="line">$ pip3 install cairosvg</div><div class="line">$ pip3 install pathlib</div><div class="line"></div><div class="line">$ python3 generate-xml.py</div><div class="line">$ zip gen.zip gen/ -r0</div><div class="line">click Install From File =&gt; select gen.zip</div><div class="line">If Icon not show in Shapes(Ubuntu)</div><div class="line">$ cd ~/.pencil/stencils/</div><div class="line">gen_xxx is a generate folder random name</div><div class="line">$ mv gen_xxx/gen gen</div></pre></td></tr></table></figure>
+</li>
+<li><p>Install From Repository<br>Click Install … OK</p>
+</li>
+</ol>
+</blockquote>
+<p><img src="/images/pencil/pencil_ide.png" alt="Pencil"></p>
+<h3 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h3><p>Make Plugin</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Install&quot;&gt;&lt;a href=&quot;#Install&quot; class=&quot;headerlink&quot; title=&quot;Install&quot;&gt;&lt;/a&gt;Install&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;SITE: &lt;a href=&quot;http://pencil.evolus.v
+    
+    </summary>
+    
+    
+      <category term="技" scheme="https://ilaole.com/tags/%E6%8A%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>信仰 起点</title>
+    <link href="https://ilaole.com/2017/02/06/%E4%BF%A1%E4%BB%B0/"/>
+    <id>https://ilaole.com/2017/02/06/信仰/</id>
+    <published>2017-02-06T07:28:31.000Z</published>
+    <updated>2017-02-06T07:31:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="世界的开始-与-程序的入口"><a href="#世界的开始-与-程序的入口" class="headerlink" title="世界的开始 与 程序的入口"></a>世界的开始 与 程序的入口</h1><blockquote>
+<p>你只是一段程序，因此可以推断结果</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      信仰
+    
+    </summary>
+    
+      <category term="信仰" scheme="https://ilaole.com/categories/%E4%BF%A1%E4%BB%B0/"/>
+    
+    
+      <category term="信仰" scheme="https://ilaole.com/tags/%E4%BF%A1%E4%BB%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电影-2017</title>
+    <link href="https://ilaole.com/2017/01/25/%E7%94%B5%E5%BD%B1%202017/"/>
+    <id>https://ilaole.com/2017/01/25/电影 2017/</id>
+    <published>2017-01-25T06:11:32.000Z</published>
+    <updated>2017-01-25T06:26:13.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="电影" scheme="https://ilaole.com/categories/%E7%94%B5%E5%BD%B1/"/>
+    
+    
+      <category term="乐" scheme="https://ilaole.com/tags/%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电影-2016</title>
+    <link href="https://ilaole.com/2017/01/25/%E7%94%B5%E5%BD%B1%202016/"/>
+    <id>https://ilaole.com/2017/01/25/电影 2016/</id>
+    <published>2017-01-25T06:11:31.000Z</published>
+    <updated>2017-01-25T07:05:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<h3 id="7部烧糊大脑的高智商电影"><a href="#7部烧糊大脑的高智商电影" class="headerlink" title="7部烧糊大脑的高智商电影"></a>7部烧糊大脑的高智商电影</h3><pre><code>1. 穆赫兰道(Mulholland Drive)
+2. 电锯惊魂1（Saw1）
+3. 恐怖游轮（Triangle）
+4. 致命魔术（The Prestige）
+5. 万能钥匙（The Skeleton Key）
+6. 死亡幻觉（Donnie Darko）
+7. 致命ID（Identify）
+</code></pre><h3 id="31部黑客电影"><a href="#31部黑客电影" class="headerlink" title="31部黑客电影"></a>31部黑客电影</h3><pre><code>1.《社交网络The Social Network》(2010)
+2.《硅谷传奇(Pirates of Silicon Valley)》(1999)
+3.《大买卖(The Score)》(2001)
+4.《碟中谍4(Mission: Impossible – Ghost Protocol)》(2011)
+5.《反托拉斯行动(Antitrust)》(2001)
+6.《操作系统革命(Revolution OS)》(2001)
+7.《偷天换日The Italian Job》(2003)
+8.《异次元骇客The Thirteenth Floor》(1999)
+9.《黑客帝国(The Matrix)》(1999)
+10.《龙纹身的女孩(The Girl with the Dragon Tattoo)》2011
+11.《天地逃生Gamer》(2009)
+12.《天才除草人The Lawnmower Man》(1992)
+13.《地心抢险记The Core》(2003)
+14.《时空悍将Virtuosity》(1995)
+15.《剑鱼行动Swordfish》(2001)
+16.《感官游戏eXistenZ》(1999)
+17.《神鬼妙计Foolproof》(2003)
+18.《创：战纪Tron: Legacy》(2010)
+19.《骇客追缉令Takedown》(2000)
+20.《对话The Conversation》(1974)
+21.《黑客Hackers》(1995)
+22.《电子世界争霸战Tron》(1982)
+23.《战争游戏War Games》(1983)
+24.《大盗Sneakers》(1992)
+25.《虎胆龙威4 Live Free or Die Hard》(2007)
+26.《007之黄金眼Golden Eye》(1995)
+27.《觅踪Untraceable》(2008)
+28.《时空线索Deja Vu》(2006)
+29.《神秘幻影(One Point O) 》2004
+30.《叛逆性骚扰Disclosure》(1994)
+31.《侏罗纪公园3 Jurassic Park 3》(2001)
+</code></pre></blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;h3 id=&quot;7部烧糊大脑的高智商电影&quot;&gt;&lt;a href=&quot;#7部烧糊大脑的高智商电影&quot; class=&quot;headerlink&quot; title=&quot;7部烧糊大脑的高智商电影&quot;&gt;&lt;/a&gt;7部烧糊大脑的高智商电影&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;1. 穆赫兰道(M
+    
+    </summary>
+    
+      <category term="电影" scheme="https://ilaole.com/categories/%E7%94%B5%E5%BD%B1/"/>
+    
+    
+      <category term="乐" scheme="https://ilaole.com/tags/%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《破窯賦》宋・呂蒙正</title>
+    <link href="https://ilaole.com/2017/01/25/%E7%A0%B4%E7%AA%AF%E8%B3%A6/"/>
+    <id>https://ilaole.com/2017/01/25/破窯賦/</id>
+    <published>2017-01-25T06:02:31.000Z</published>
+    <updated>2017-02-10T06:58:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>天有不測風雲，人有旦夕禍福。</p>
+<p>蜈蚣百足，行不及蛇；雄雞兩翼，飛不過鴉。</p>
+<p>馬有千裏之程，無騎不能自往；人有沖天之誌，非運不能自通。</p>
+<p>蓋聞：人生在世，富貴不能淫，貧賤不能移。</p>
+<p>文章蓋世，孔子厄於陳邦；武略超群，太公釣於渭水。</p>
+<p>顏淵命短，殊非兇惡之徒；盜跖年長，豈是善良之輩。</p>
+<p>堯帝明聖，卻生不肖之兒；瞽叟愚頑，反生大孝之子。</p>
+<p>張良原是布衣，蕭何稱謂縣吏。</p>
+<p>晏子身無五尺，封作齊國宰相；孔明臥居草廬，能作蜀漢軍師。</p>
+<p>楚霸雖雄，敗於烏江自刎；漢王雖弱，竟有萬裏江山。</p>
+<p>李廣有射虎之威，到老無封；馮唐有乘龍之才，一生不遇。</p>
+<p>韓信未遇之時，無一日三餐，及至遇行，腰懸三尺玉印，一旦時衰，死於陰人之手。</p>
+<p>有先貧而後富，有老壯而少衰。</p>
+<p>滿腹文章，白發竟然不中；才疏學淺，少年及第登科。</p>
+<p>深院宮娥，運退反為妓妾；風流妓女，時來配作夫人。</p>
+<p>青春美女，卻招愚蠢之夫；俊秀郎君，反配粗醜之婦。</p>
+<p>蛟龍未遇，潛水於魚鱉之間；君子失時，拱手於小人之下。</p>
+<p>衣服雖破，常存儀禮之容；面帶憂愁，每抱懷安之量。</p>
+<p>時遭不遇，只宜安貧守份；心若不欺，必然揚眉吐氣。</p>
+<p>初貧君子，天然骨骼生成；乍富小人，不脫貧寒肌體。</p>
+<p>天不得時，日月無光；地不得時，草木不生；</p>
+<p>水不得時，風浪不平；人不得時，利運不通。</p>
+<p>註福註祿，命裏已安排定，富貴誰不欲？</p>
+<p>人若不依根基八字，豈能為卿為相？</p>
+<p>吾昔寓居洛陽，朝求僧餐，暮宿破窖，</p>
+<p>思衣不可遮其體，思食不可濟其饑，</p>
+<p>上人憎，下人厭，人道我賤，非我不棄也。</p>
+<p>今居朝堂，官至極品，位置三公，</p>
+<p>身雖鞠躬於一人之下，而列職於千萬人之上，</p>
+<p>有撻百僚之杖，有斬鄙吝之劍，</p>
+<p>思衣而有羅錦千箱，思食而有珍饈百味，</p>
+<p>出則壯士執鞭，入則佳人捧觴，</p>
+<p>上人寵，下人擁。人道我貴，非我之能也，此乃時也、運也、命也。</p>
+<p>嗟呼！人生在世，富貴不可盡用，貧賤不可自欺，聽由天地循環，周而復始焉。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;天有不測風雲，人有旦夕禍福。&lt;/p&gt;
+&lt;p&gt;蜈蚣百足，行不及蛇；雄雞兩翼，飛不過鴉。&lt;/p&gt;
+&lt;p&gt;馬有千裏之程，無騎不能自往；人有沖天之誌，非運不能自通。&lt;/p&gt;
+&lt;p&gt;蓋聞：人生在世，富貴不能淫，貧賤不能移。&lt;/p&gt;
+&lt;p&gt;文章蓋世，孔子厄於陳邦；武略超群，太公釣於渭水
+    
+    </summary>
+    
+    
+      <category term="文" scheme="https://ilaole.com/tags/%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开篇</title>
+    <link href="https://ilaole.com/2017/01/24/%E5%BC%80%E7%AF%87/"/>
+    <id>https://ilaole.com/2017/01/24/开篇/</id>
+    <published>2017-01-24T06:01:31.000Z</published>
+    <updated>2017-01-24T06:48:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Charlie-Tian-如是说"><a href="#Charlie-Tian-如是说" class="headerlink" title="Charlie Tian 如是说"></a>Charlie Tian 如是说</h1><p>言不可以言， 食方可安</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Charlie-Tian-如是说&quot;&gt;&lt;a href=&quot;#Charlie-Tian-如是说&quot; class=&quot;headerlink&quot; title=&quot;Charlie Tian 如是说&quot;&gt;&lt;/a&gt;Charlie Tian 如是说&lt;/h1&gt;&lt;p&gt;言不可以言， 食方可安&lt;/p
+    
+    </summary>
+    
+    
+      <category term="言" scheme="https://ilaole.com/tags/%E8%A8%80/"/>
+    
+  </entry>
+  
+</feed>
