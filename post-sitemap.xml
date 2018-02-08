@@ -8,7 +8,15 @@
 
     <url>
         <loc>https://ilaole.com/2017/01/25/%E7%A0%B4%E7%AA%AF%E8%B3%A6/</loc>
-        <lastmod>2017-02-10T06:58:01.000Z</lastmod>
+        <lastmod>2018-01-10T02:53:30.697Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://ilaole.com/2018/01/10/FeynmanTechnique/</loc>
+        <lastmod>2018-01-10T02:24:27.707Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
