@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ilaole.com/"/>
-  <updated>2019-01-02T05:17:44.031Z</updated>
+  <updated>2019-01-02T09:45:31.742Z</updated>
   <id>https://ilaole.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Angular6 Trigger Window Resizing</title>
+    <link href="https://ilaole.com/2019/01/02/2019-Tips/Angular6%20Trigger%20Window%20Resizing/"/>
+    <id>https://ilaole.com/2019/01/02/2019-Tips/Angular6 Trigger Window Resizing/</id>
+    <published>2019-01-02T09:40:27.000Z</published>
+    <updated>2019-01-02T09:45:31.742Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Angular6-Trigger-Window-Resizing"><a href="#Angular6-Trigger-Window-Resizing" class="headerlink" title="Angular6 Trigger Window Resizing"></a>Angular6 Trigger Window Resizing</h1><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="comment">// Add the id of resizing</span></span><br><span class="line">resizeId: any = <span class="literal">null</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">// Add event for resizing</span></span><br><span class="line">@HostListener(<span class="string">'window:resize'</span>, [<span class="string">'$event'</span>])</span><br><span class="line">onResize(event) &#123;</span><br><span class="line">    <span class="comment">// check the id</span></span><br><span class="line">    <span class="keyword">if</span> (<span class="keyword">this</span>.resizeId) &#123;</span><br><span class="line">        <span class="comment">// do not fire when resizing is not finished</span></span><br><span class="line">        clearTimeout(<span class="keyword">this</span>.resizeId);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">this</span>.resizeId = setTimeout(<span class="keyword">this</span>.doneResizing, <span class="number">500</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// the resizing done event</span></span><br><span class="line">doneResizing() &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="keyword">new</span> <span class="built_in">Date</span>(), <span class="string">'RESING DONE'</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Angular6-Trigger-Window-Resizing&quot;&gt;&lt;a href=&quot;#Angular6-Trigger-Window-Resizing&quot; class=&quot;headerlink&quot; title=&quot;Angular6 Trigger Window Resi
+      
+    
+    </summary>
+    
+      <category term="Angular" scheme="https://ilaole.com/categories/Angular/"/>
+    
+    
+      <category term="技" scheme="https://ilaole.com/tags/%E6%8A%80/"/>
+    
+      <category term="Angular" scheme="https://ilaole.com/tags/Angular/"/>
+    
+  </entry>
   
   <entry>
     <title>Week 1</title>
