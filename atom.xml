@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ilaole.com/"/>
-  <updated>2018-09-06T01:20:30.568Z</updated>
+  <updated>2019-01-02T05:17:44.031Z</updated>
   <id>https://ilaole.com/</id>
   
   <author>
@@ -17,27 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>幼儿园</title>
-    <link href="https://ilaole.com/2018/09/05/201809/%E5%B9%BC%E5%84%BF%E5%9B%AD/"/>
-    <id>https://ilaole.com/2018/09/05/201809/幼儿园/</id>
-    <published>2018-09-05T01:10:00.000Z</published>
-    <updated>2018-09-06T01:20:30.568Z</updated>
+    <title>Week 1</title>
+    <link href="https://ilaole.com/2019/01/02/2019/week1/"/>
+    <id>https://ilaole.com/2019/01/02/2019/week1/</id>
+    <published>2019-01-02T05:13:30.000Z</published>
+    <updated>2019-01-02T05:17:44.031Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="幼儿园"><a href="#幼儿园" class="headerlink" title="幼儿园"></a>幼儿园</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">PiA1 YkNQNklPVzVhMlE1TGlLNUxxRzVZZ Wc1 YVN WN WJtODVZU Y81 WnV0NUxxRzc3eU01TGl</span><br><span class="line">BNVlpSDZZTzk1 YVc5Cj4gNUx1SzVhU3A2SUNCN WJpSTVvK1E1THFHNUxpTDc3eU02S WVxN W</span><br><span class="line">JleDU0NnA1NXFFN WFTcTVieUE1 YitENUxxR Wo+IDVZbU41 W WVnN WFTcDZZTzk2S2FCN WFhS</span><br><span class="line">TVh YUk2 WUNCNzd5TTVMdUs1 YVN WN W9pUjZZQ0I1THVXNVk2NzU1cUU=</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h1><blockquote><ol><li><p>看完 Tensorflow 第一遍</p></li><li><p>看两部电影</p></li><li><p>至少运动3次, 每次 &gt; 1.5h</p></li></ol></blockquote><h1 id="Checking"><a href="#Checking" class="headerlink" title="Checking"></a>Checking</h1><blockquote><ol><li><p>看完 Tensorflow 第一遍</p></li><li><p>看两部电影</p></li><li><p>至少运动3次, 每次 &gt; 1.5h</p></li></ol></blockquote><h1 id="2018"><a href="#2018" class="headerlink" title="2018"></a>2018</h1><blockquote><p>2018 年过的挺好, 小胖子很调皮, 小猪子也很调皮, 大胖子也调皮</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;幼儿园&quot;&gt;&lt;a href=&quot;#幼儿园&quot; class=&quot;headerlink&quot; title=&quot;幼儿园&quot;&gt;&lt;/a&gt;幼儿园&lt;/h1&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;sp
+        &lt;h1 id=&quot;TODO&quot;&gt;&lt;a href=&quot;#TODO&quot; class=&quot;headerlink&quot; title=&quot;TODO&quot;&gt;&lt;/a&gt;TODO&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;看完 Tensorflow 第一遍&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;看两部电影
       
     
     </summary>
     
-      <category term="言" scheme="https://ilaole.com/categories/%E8%A8%80/"/>
+      <category term="2019" scheme="https://ilaole.com/categories/2019/"/>
+    
+      <category term="Week" scheme="https://ilaole.com/categories/2019/Week/"/>
     
     
-      <category term="言" scheme="https://ilaole.com/tags/%E8%A8%80/"/>
+      <category term="2019" scheme="https://ilaole.com/tags/2019/"/>
     
   </entry>
   
@@ -55,6 +61,31 @@
       
       
         &lt;h1 id=&quot;开学第一课&quot;&gt;&lt;a href=&quot;#开学第一课&quot; class=&quot;headerlink&quot; title=&quot;开学第一课&quot;&gt;&lt;/a&gt;开学第一课&lt;/h1&gt;&lt;h2 id=&quot;诚信&quot;&gt;&lt;a href=&quot;#诚信&quot; class=&quot;headerlink&quot; title=&quot;诚信&quot;&gt;&lt;/a&gt;诚
+      
+    
+    </summary>
+    
+      <category term="言" scheme="https://ilaole.com/categories/%E8%A8%80/"/>
+    
+    
+      <category term="言" scheme="https://ilaole.com/tags/%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>幼儿园</title>
+    <link href="https://ilaole.com/2018/09/05/201809/%E5%B9%BC%E5%84%BF%E5%9B%AD/"/>
+    <id>https://ilaole.com/2018/09/05/201809/幼儿园/</id>
+    <published>2018-09-05T01:10:00.000Z</published>
+    <updated>2018-09-06T01:20:30.568Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="幼儿园"><a href="#幼儿园" class="headerlink" title="幼儿园"></a>幼儿园</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">PiA1 YkNQNklPVzVhMlE1TGlLNUxxRzVZZ Wc1 YVN WN WJtODVZU Y81 WnV0NUxxRzc3eU01TGl</span><br><span class="line">BNVlpSDZZTzk1 YVc5Cj4gNUx1SzVhU3A2SUNCN WJpSTVvK1E1THFHNUxpTDc3eU02S WVxN W</span><br><span class="line">JleDU0NnA1NXFFN WFTcTVieUE1 YitENUxxR Wo+IDVZbU41 W WVnN WFTcDZZTzk2S2FCN WFhS</span><br><span class="line">TVh YUk2 WUNCNzd5TTVMdUs1 YVN WN W9pUjZZQ0I1THVXNVk2NzU1cUU=</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;幼儿园&quot;&gt;&lt;a href=&quot;#幼儿园&quot; class=&quot;headerlink&quot; title=&quot;幼儿园&quot;&gt;&lt;/a&gt;幼儿园&lt;/h1&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;sp
       
     
     </summary>
